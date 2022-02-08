@@ -1,9 +1,7 @@
 #include <iostream>
 
-using namespace std;
-
 int main()
 {
-    cout << "Hi from main\n";
+    std::cout << "Hi from main" << std::endl;
     return 0;
 }
